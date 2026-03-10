@@ -55,7 +55,14 @@ I like turning ideas into products that can actually run, ship, and keep evolvin
     <td width="40%" align="center" valign="top">
       <img src="./assets/roxy.jpg" width="260" alt="Guxi avatar" />
       <br /><br />
-      <img src="./assets/anime-headphones.jpg" width="260" alt="Guxi vibe" />
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js" />
+      </p>
+      <img src="./assets/anime-headphones.jpg" width="280" alt="Guxi skills and vibe" />
     </td>
   </tr>
 </table>
