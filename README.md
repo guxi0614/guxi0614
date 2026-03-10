@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Guxi banner" />
+  <img src="./assets/banner.jpg" width="86%" height="420" alt="Guxi banner" />
 </p>
 
 <h1 align="center">Guxi</h1>
