@@ -5,63 +5,72 @@
 <h1 align="center">Guxi</h1>
 
 <p align="center">
-  技术宅 / Full-Stack Engineer / Builder
+  Full-Stack Engineer / Builder / Tech Geek
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack-1f6feb?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Mode-Shipping-111827?style=flat-square" alt="Mode" />
-  <img src="https://img.shields.io/badge/Vibe-Tech%20Geek-0ea5e9?style=flat-square" alt="Vibe" />
+  <img src="https://img.shields.io/badge/Base-China-0f766e?style=flat-square" alt="Base" />
+  <img src="https://img.shields.io/badge/Vibe-Clean%20Builds-e11d48?style=flat-square" alt="Vibe" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/guxi0614">
+    <img src="https://komarev.com/ghpvc/?username=guxi0614&style=flat-square&color=1f6feb" alt="Profile views" />
+  </a>
 </p>
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="60%" valign="top">
 
-<h3>/about_me</h3>
+## /about_me
 
-<pre><code>name: Guxi
+```yaml
+name: Guxi
 role: Full-Stack Engineer
-identity: tech geek
 location: China
-status: building useful things</code></pre>
+status: building useful things
+style: product thinking + engineering execution
+```
 
-我喜欢把灵感写成代码，把项目做成真正能跑、能用、能持续迭代的作品。<br />
-前端关注交互和视觉，后端关注稳定性和扩展性。<br />
-比起空谈，我更喜欢直接开工。
+I like turning ideas into products that can actually run, ship, and keep evolving.
 
-<h3>/stack</h3>
+- Frontend: care about interaction, rhythm, and visual clarity
+- Backend: care about stability, scaling, and maintainable APIs
+- Workflow: learn fast, build fast, iterate with purpose
 
-<pre><code>Frontend  -&gt; React / Next.js / TypeScript
-Backend   -&gt; Node.js / Python / API Design
-Database  -&gt; MySQL / PostgreSQL / Redis
-DevOps    -&gt; Docker / Git / Linux / CI/CD
-Style     -&gt; Product Thinking + Engineering Execution</code></pre>
+## /current_focus
 
-<h3>/now</h3>
+- Building full-stack products end to end
+- Improving UI, DX, and delivery speed
+- Keeping code practical instead of ornamental
 
-<ul>
-  <li>Building with full-stack workflows</li>
-  <li>Learning fast and shipping faster</li>
-  <li>Exploring better UI, better DX, better products</li>
-</ul>
+## /featured_notes
 
-<h3>/quote</h3>
-
-<blockquote>
-  技术宅全栈工程师，喜欢把灵感写成代码，把项目做成作品。
-</blockquote>
+> Code with taste. Build with purpose. Stay curious.
 
     </td>
-    <td width="36%" align="center" valign="top">
-      <img src="./assets/roxy.jpg" width="240" alt="Guxi avatar" />
+    <td width="40%" align="center" valign="top">
+      <img src="./assets/roxy.jpg" width="260" alt="Guxi avatar" />
       <br /><br />
-      <img src="./assets/anime-headphones.jpg" width="240" alt="Guxi vibe" />
+      <img src="./assets/anime-headphones.jpg" width="260" alt="Guxi vibe" />
     </td>
   </tr>
 </table>
 
-### /toolbox
+## /stack
+
+```text
+Frontend  -> React / Next.js / TypeScript
+Backend   -> Node.js / Python / API Design
+Database  -> MySQL / PostgreSQL / Redis
+DevOps    -> Docker / Git / Linux / CI/CD
+Style     -> Clean UI + Reliable Engineering
+```
+
+## /toolbox
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -71,19 +80,22 @@ Style     -&gt; Product Thinking + Engineering Execution</code></pre>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
 </p>
 
-### /stats
+## /stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=guxi0614&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxi0614&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-```text
-Code with taste.
-Build with purpose.
-Stay curious.
-```
+## /connect
+
+<p align="center">
+  <a href="https://github.com/guxi0614">
+    <img src="https://img.shields.io/badge/GitHub-guxi0614-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
