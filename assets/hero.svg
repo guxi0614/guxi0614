@@ -1,0 +1,86 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1100" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B16"/>
+      <stop offset="0.55" stop-color="#0C1630"/>
+      <stop offset="1" stop-color="#09111F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="0" x2="980" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="pillA" x1="0" y1="0" x2="180" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 56) rotate(148.4) scale(356.121 238.074)">
+      <stop stop-color="#60A5FA" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(318 250) rotate(26.1) scale(376.73 208.019)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-120" y="-120" width="1440" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="36"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle cx="980" cy="56" r="164" fill="url(#glowA)"/>
+    <circle cx="318" cy="250" r="150" fill="url(#glowB)"/>
+  </g>
+
+  <rect x="24" y="24" width="1152" height="272" rx="22" stroke="#94A3B8" stroke-opacity="0.18"/>
+  <path d="M32 232C148 180 236 186 330 210C408 230 470 234 540 206C622 174 702 132 782 130C878 128 960 182 1168 108" stroke="url(#line)" stroke-width="1.5" stroke-opacity="0.9"/>
+
+  <g opacity="0.12" stroke="#94A3B8" stroke-width="1">
+    <path d="M88 52H376"/>
+    <path d="M88 80H544"/>
+    <path d="M88 108H462"/>
+    <path d="M88 136H584"/>
+    <path d="M88 164H512"/>
+    <path d="M860 196H1108"/>
+    <path d="M860 224H1108"/>
+    <path d="M860 252H1108"/>
+    <path d="M860 280H1108"/>
+  </g>
+
+  <text x="86" y="86" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="4">PROFILE README</text>
+  <text x="86" y="148" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1">GUXI</text>
+  <text x="88" y="186" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Full-Stack Engineer / Builder / Product-Oriented Maker</text>
+  <text x="88" y="224" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Design clarity, fast delivery, and engineering that actually ships.</text>
+
+  <g>
+    <rect x="86" y="246" width="142" height="38" rx="19" fill="url(#pillA)" stroke="#1E293B"/>
+    <text x="120" y="270" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">TypeScript</text>
+    <rect x="240" y="246" width="122" height="38" rx="19" fill="url(#pillA)" stroke="#1E293B"/>
+    <text x="282" y="270" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Next.js</text>
+    <rect x="374" y="246" width="128" height="38" rx="19" fill="url(#pillA)" stroke="#1E293B"/>
+    <text x="418" y="270" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Node.js</text>
+    <rect x="514" y="246" width="134" height="38" rx="19" fill="url(#pillA)" stroke="#1E293B"/>
+    <text x="552" y="270" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Shipping</text>
+  </g>
+
+  <g>
+    <rect x="828" y="56" width="304" height="170" rx="22" fill="#0A1223" fill-opacity="0.78" stroke="#1E293B"/>
+    <text x="856" y="94" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build Signals</text>
+
+    <text x="856" y="128" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">UI Systems</text>
+    <rect x="966" y="116" width="138" height="10" rx="5" fill="#111827"/>
+    <rect x="966" y="116" width="118" height="10" rx="5" fill="#60A5FA"/>
+
+    <text x="856" y="154" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">DX</text>
+    <rect x="966" y="142" width="138" height="10" rx="5" fill="#111827"/>
+    <rect x="966" y="142" width="108" height="10" rx="5" fill="#34D399"/>
+
+    <text x="856" y="180" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Product Delivery</text>
+    <rect x="966" y="168" width="138" height="10" rx="5" fill="#111827"/>
+    <rect x="966" y="168" width="124" height="10" rx="5" fill="#F59E0B"/>
+
+    <text x="856" y="206" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Backend Reliability</text>
+    <rect x="966" y="194" width="138" height="10" rx="5" fill="#111827"/>
+    <rect x="966" y="194" width="102" height="10" rx="5" fill="#A78BFA"/>
+  </g>
+</svg>

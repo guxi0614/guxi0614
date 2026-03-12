@@ -1,125 +1,130 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="92%" alt="Guxi banner" />
+  <img src="./assets/hero.svg" width="100%" alt="Guxi hero banner" />
 </p>
 
-<h1 align="left">Hi, I'm Guxi.</h1>
+<h2 align="center">Building polished products with strong engineering taste.</h2>
 
-<p align="left">
-  Full-Stack Engineer / Builder / Tech Geek
+<p align="center">
+  Full-Stack Engineer focused on interface quality, delivery speed, and systems that stay maintainable.
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,docker,mysql,postgres,redis" alt="Guxi skills" />
-</p>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/guxi0614">
-    <img src="https://img.shields.io/badge/GitHub-guxi0614-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-guxi0614-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="https://guxi0614.cn">
-    <img src="https://img.shields.io/badge/Website-guxi0614.cn-2563eb?style=flat-square&logo=googlechrome&logoColor=ffffff" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-guxi0614.cn-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Website" />
   </a>
   <a href="mailto:3387839252@qq.com">
-    <img src="https://img.shields.io/badge/Email-3387839252%40qq.com-e11d48?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-3387839252%40qq.com-be123c?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-1f6feb?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Base-China-0f766e?style=flat-square" alt="Base" />
-  <img src="https://img.shields.io/badge/Mode-Shipping-111827?style=flat-square" alt="Mode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,python,docker,mysql,postgres,redis&theme=dark" alt="Core stack" />
 </p>
 
 <table>
   <tr>
     <td width="56%" valign="top">
 
-### /weekly_development_breakdown
+### Profile
 
-```text
-TypeScript   40%  ########....
-React        22%  #####.......
-Node.js      18%  ####........
-Python       12%  ###.........
-Design / DX   8%  ##..........
+```yaml
+name: Guxi
+role: Full-Stack Engineer
+location: China
+focus:
+  - Product-minded frontend systems
+  - Reliable backend and API design
+  - Practical delivery over ornamental complexity
 ```
 
-### /current_focus
+### Operating Style
 
-- Shipping full-stack products from idea to delivery
-- Polishing UI, DX, and maintainable project structure
-- Keeping engineering practical instead of ornamental
+- Clean interfaces with clear visual rhythm
+- Fast iteration, fewer moving parts, sharper priorities
+- Engineering choices that are easy to maintain after shipping
 
-### /featured_note
+### Current Direction
 
-> Code with taste. Build with purpose. Keep shipping.
+- Building end-to-end products with React / Next.js / TypeScript
+- Tightening UI quality, DX, and structure
+- Keeping product execution fast without sacrificing reliability
 
     </td>
     <td width="44%" align="center" valign="top">
-      <img src="./assets/anime-headphones.jpg" width="285" alt="Guxi side visual" />
+      <img src="./assets/anime-headphones.jpg" width="290" alt="Guxi visual card" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Focus-Full--Stack-2563eb?style=flat-square" alt="Focus" />
+      <img src="https://img.shields.io/badge/Base-China-0f766e?style=flat-square" alt="Base" />
+      <img src="https://img.shields.io/badge/Mode-Shipping-111827?style=flat-square" alt="Mode" />
+      <img src="https://img.shields.io/badge/Vibe-Clean%20Builds-e11d48?style=flat-square" alt="Vibe" />
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="50%" valign="top">
 
-### /about_me
+### Build Signals
 
-```yaml
-name: Guxi
-role: Full-Stack Engineer
-location: China
-style: product thinking + engineering execution
-status: building useful things that can actually ship
+```text
+TypeScript         40%  ########....
+React / Next.js    24%  ######......
+Node.js APIs       18%  ####........
+Python tooling     10%  ###.........
+UI / DX polish      8%  ##..........
 ```
 
-- Frontend: interaction rhythm, visual clarity, and clean UI
-- Backend: stable services, readable APIs, and sensible scaling
-- Workflow: learn fast, build fast, iterate from real feedback
+### Notes
+
+> Code with taste. Build with purpose. Ship work that still feels good to maintain.
 
     </td>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
 
-### /latest_focus
+### Design Priorities
 
-- Personal brand README redesign
-- React / Next.js / TypeScript full-stack workflow
-- Product-minded engineering and better delivery speed
-- Clean structure, fewer moving parts, better maintainability
+- Strong contrast and a deliberate visual hierarchy
+- Components that feel intentional, not generic
+- A portfolio presence that reads like a product, not a template
 
-### /connect
+### Links
 
 - Website: [guxi0614.cn](https://guxi0614.cn)
-- Email: [3387839252@qq.com](mailto:3387839252@qq.com)
 - GitHub: [@guxi0614](https://github.com/guxi0614)
+- Email: [3387839252@qq.com](mailto:3387839252@qq.com)
 
     </td>
   </tr>
 </table>
 
-### /stats
+### Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guxi0614&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxi0614&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guxi0614&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=64748b" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxi0614&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b" alt="Top languages" />
 </p>
 
-### /toolbox
+### Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-166534?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
+  <img src="https://img.shields.io/badge/Node.js-15803d?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-991b1b?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
 </p>
 
-### /contribution_snake
+### Contribution Flow
 
 <p align="center">
   <picture>
@@ -130,7 +135,5 @@ status: building useful things that can actually ship
 </p>
 
 <p align="center">
-  <a href="https://github.com/guxi0614">
-    <img src="https://komarev.com/ghpvc/?username=guxi0614&style=flat-square&color=1f6feb" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=guxi0614&style=flat-square&color=2563eb" alt="Profile views" />
 </p>
