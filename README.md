@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,python,docker,mysql,postgres,redis&theme=dark" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,react,nextjs,vue,nodejs,python,docker,mysql,postgres,redis&theme=dark" alt="Core stack" />
 </p>
 
 <table>
@@ -33,7 +33,7 @@
 ```yaml
 name: Guxi
 role: Full-Stack Engineer
-location: China
+location: Singapore
 focus:
   - Product-minded frontend systems
   - Reliable backend and API design
@@ -57,7 +57,7 @@ focus:
       <img src="./assets/anime-headphones.jpg" width="290" alt="Guxi visual card" />
       <br /><br />
       <img src="https://img.shields.io/badge/Focus-Full--Stack-2563eb?style=flat-square" alt="Focus" />
-      <img src="https://img.shields.io/badge/Base-China-0f766e?style=flat-square" alt="Base" />
+      <img src="https://img.shields.io/badge/Base-Singapore-0f766e?style=flat-square" alt="Base" />
       <img src="https://img.shields.io/badge/Mode-Shipping-111827?style=flat-square" alt="Mode" />
       <img src="https://img.shields.io/badge/Vibe-Clean%20Builds-e11d48?style=flat-square" alt="Vibe" />
     </td>
@@ -117,6 +117,8 @@ UI / DX polish      8%  ##..........
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-e11d48?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-166534?style=for-the-badge&logo=spring&logoColor=ffffff" alt="Spring" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue-166534?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="Vue" />
