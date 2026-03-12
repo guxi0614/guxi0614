@@ -66,7 +66,7 @@ focus:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="56%" valign="top">
 
 ### Build Signals
 
@@ -82,9 +82,6 @@ UI / DX polish      8%  ##..........
 
 > Code with taste. Build with purpose. Ship work that still feels good to maintain.
 
-    </td>
-    <td width="50%" valign="top">
-
 ### Design Priorities
 
 - Strong contrast and a deliberate visual hierarchy
@@ -98,14 +95,15 @@ UI / DX polish      8%  ##..........
 - Email: [3387839252@qq.com](mailto:3387839252@qq.com)
 
     </td>
+    <td width="44%" align="center" valign="top">
+      <img src="./assets/roxy-lower.jpg" width="290" alt="Guxi secondary visual card" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/UI-Deliberate-2563eb?style=flat-square" alt="UI" />
+      <img src="https://img.shields.io/badge/Layout-Balanced-0f766e?style=flat-square" alt="Layout" />
+      <img src="https://img.shields.io/badge/Detail-Premium-111827?style=flat-square" alt="Detail" />
+    </td>
   </tr>
 </table>
-
-### Visual
-
-<p align="center">
-  <img src="./assets/roxy-lower.jpg" width="42%" alt="Guxi lower visual" />
-</p>
 
 ### Metrics
 
