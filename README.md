@@ -101,6 +101,12 @@ UI / DX polish      8%  ##..........
   </tr>
 </table>
 
+### Visual
+
+<p align="center">
+  <img src="./assets/roxy-lower.jpg" width="42%" alt="Guxi lower visual" />
+</p>
+
 ### Metrics
 
 <p align="center">
