@@ -102,8 +102,8 @@ focus:
 ### Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guxi0614&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=64748b" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxi0614&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b" alt="Top languages" />
+  <img width="49%" src="./assets/metrics-overview.svg" alt="Guxi metrics overview" />
+  <img width="49%" src="./assets/metrics-languages.svg" alt="Guxi stack weight" />
 </p>
 
 ### Toolbox

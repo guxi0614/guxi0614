@@ -1,0 +1,43 @@
+<svg width="760" height="230" viewBox="0 0 760 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="24" y1="12" x2="726" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#091120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="blur" x="-120" y="-120" width="1000" height="460" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="230" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="228" rx="23" stroke="#1E293B"/>
+  <g filter="url(#blur)">
+    <circle cx="640" cy="70" r="88" fill="#2563EB" fill-opacity="0.14"/>
+  </g>
+
+  <text x="36" y="42" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Guxi Performance Snapshot</text>
+  <text x="36" y="68" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Balanced metrics with a stronger delivery profile.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    <text x="36" y="108" fill="#93C5FD">Stars Earned</text>
+    <text x="262" y="108" fill="#E2E8F0" text-anchor="end">138</text>
+
+    <text x="36" y="136" fill="#93C5FD">Commits</text>
+    <text x="262" y="136" fill="#E2E8F0" text-anchor="end">286</text>
+
+    <text x="36" y="164" fill="#93C5FD">Pull Requests</text>
+    <text x="262" y="164" fill="#E2E8F0" text-anchor="end">42</text>
+
+    <text x="36" y="192" fill="#93C5FD">Issues Closed</text>
+    <text x="262" y="192" fill="#E2E8F0" text-anchor="end">19</text>
+  </g>
+
+  <circle cx="544" cy="122" r="52" fill="#0F172A" stroke="#1D4ED8" stroke-width="10"/>
+  <text x="544" y="114" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">GRADE</text>
+  <text x="544" y="142" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">A</text>
+
+  <rect x="622" y="78" width="98" height="88" rx="18" fill="#0F172A" stroke="#1E293B"/>
+  <text x="671" y="105" fill="#34D399" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="middle">Delivery</text>
+  <text x="671" y="126" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">92%</text>
+  <text x="671" y="149" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle">Consistency</text>
+</svg>
