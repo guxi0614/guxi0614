@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,react,nextjs,vue,nodejs,python,docker,mysql,postgres,redis&theme=dark" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,react,nextjs,vue,nodejs,python,docker,linux,mysql,postgres,redis&theme=dark" alt="Core stack" />
 </p>
 
 <table>
@@ -70,13 +70,7 @@ focus:
 
 ### Build Signals
 
-```text
-TypeScript         40%  ########....
-React / Next.js    24%  ######......
-Node.js APIs       18%  ####........
-Python tooling     10%  ###.........
-UI / DX polish      8%  ##..........
-```
+<img src="./assets/build-signals.svg" width="100%" alt="Build signals card" />
 
 ### Notes
 
@@ -125,6 +119,7 @@ UI / DX polish      8%  ##..........
   <img src="https://img.shields.io/badge/Node.js-15803d?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
   <img src="https://img.shields.io/badge/MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-991b1b?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
